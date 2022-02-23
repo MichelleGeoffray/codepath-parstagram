@@ -35,3 +35,8 @@ main demo:
 
 ![main demo](https://user-images.githubusercontent.com/78234140/155265215-3d7f2f48-eb33-4517-b73d-7823dec2d70d.gif)
 
+launch screen demo:
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/78234140/155414058-1132f5c2-bf40-48c8-992d-21fe2536cfe0.gif)
+
+
