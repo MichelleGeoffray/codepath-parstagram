@@ -23,9 +23,15 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-main demo:
+sign up demo:
 
+![sign up demo](https://user-images.githubusercontent.com/78234140/155264316-3d627944-a5de-4d5e-b2ca-fd9dff9983a7.gif)
 
 sign in demo:
 
 ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/78234140/155263428-f2a99f6a-d297-4d0c-ad14-ee3add99887a.gif)
+
+main demo:
+
+![main demo](https://user-images.githubusercontent.com/78234140/155265215-3d7f2f48-eb33-4517-b73d-7823dec2d70d.gif)
+
