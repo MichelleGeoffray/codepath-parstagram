@@ -1,3 +1,41 @@
+# Parstagram - Part II
+
+This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
+
+Time spent: **X** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [x] User stays logged in across restarts. (1pt)
+- [x] User can log out. (1pt)
+- [x] User can view comments on a post. (3pts)
+- [x] User can add a new comment. (5pts)
+
+The following **bonus** features are implemented:
+
+- [ ] User can add a profile picture. (2pts)
+- [ ] Profile pictures are shown for posts and comments. (2pts)
+
+## Video Walkthrough
+
+main demo:
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/78234140/155912752-ebc94485-688b-4297-953c-ecce14c9e054.gif)
+
+
+commenting demo:
+
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/78234140/155912787-0cf2eba2-2fd5-4cb7-b6ef-38cc9fbbd289.gif)
+
+
+logout demo:
+
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/78234140/155912806-ff1bfb5d-d1b9-4359-8929-03086754fed0.gif)
+
+
+---
 # Parstagram - Part I
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
